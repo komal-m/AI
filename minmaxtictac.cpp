@@ -172,7 +172,7 @@ class game
                 }
                 cout << ' ';
             }
-            cout << '\n';
+            cout << endl;
         }
         cout << '\n';
     }
