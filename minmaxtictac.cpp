@@ -97,7 +97,7 @@ class game
         {
             cout << "Which symbol (X or O, X will play first)? ";
             cin >> player;
-            if (player == 'X' || player == 'O')
+            if (player == 'X' || player == 'O') //if correct choice is entered
             {
                 break;
             }
